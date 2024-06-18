@@ -1,0 +1,153 @@
+
+.body1{
+  padding-top: 50px;
+  min-height: 600px;
+  width: 100%;
+  background-color: rgb(229 231 235);
+}
+
+.fapp, .fappp{
+  padding-top: 30px;
+  height: 300px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 7px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  background-color: rgba(255, 255, 255, 0.514);
+}
+.fapp input{
+  width: 240px;
+  height: 35px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+
+}
+.fappp input{
+  width: 240px;
+  height: 35px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.fapp button{
+  margin: 10px 0 !important;
+  border: none;
+  color: white;
+  height: 30px;
+  width: 80%;
+  border-radius: 6px;
+  background-color: rgb(224, 130, 15);
+}
+.fappp button{
+  margin: 10px 0 !important;
+  border: none;
+  color: white;
+  height: 30px;
+  width: 20%;
+  border-radius: 6px;
+  background-color: rgb(224, 130, 15);
+}
+
+
+.mypost{
+  min-height: 230px;
+  width: 100%;
+  margin: auto;
+  text-align: start;
+  margin-bottom: 30px;
+  padding-left: 30px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.63);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.btn1{
+  margin-top: 20px;
+  height: 30px;
+  width: 90%;
+  font-weight: bold;
+  border-radius: 6px;
+  background-color: rgb(250, 193, 127);
+}
+.btn1:hover{
+  background-color: green;
+  color: white;
+}
+
+.editpage{
+  height: 240px;
+  width: 350px;
+  margin: auto;
+  padding-top: 20px;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.699);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.editpage input{
+  display: flex;
+  flex-wrap: wrap;
+  height: 40px;
+  width: 80%;
+  border-radius: 7px;
+  border: none !important;
+  margin: 25px 25px 10px;
+}
+.btn3{
+  height: 30px;
+  width: 80px;
+  border-radius: 7px;
+  margin-top: 50px;
+  background-color: rgb(250, 193, 127);
+}
+.AllPost{
+  height: 120px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 10px 0 0 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.admin1{
+  height: 140px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 20px;
+  padding: 10px 0 0 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset
+
+}
+
+.btn4{
+  height: 30px;
+  width: 80px;
+  border-radius: 7px;
+  margin: 10px 5px 10px 0;
+  background-color: rgb(250, 193, 127);
+  font-weight: bold;
+}
+.btn5{
+  height: 30px;
+  width: 90px;
+  border-radius: 7px;
+  margin-left: 20px;
+  background-color: rgb(127, 250, 188);
+  font-weight: bold;
+
+}
+.btn6{
+  height: 30px;
+  width: 90px;
+  border-radius: 7px;
+  color: white;
+  background-color: rgb(250, 66, 66);
+  font-weight: bold;
+
+}
